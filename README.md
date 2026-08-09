@@ -306,9 +306,9 @@ A web-based application designed to automate bacterial colony analysis from uplo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sushantAtakare&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sushantAtakare&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantAtakare&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sushantAtakare&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" height="180"/>
 
 <br/>
 
@@ -322,7 +322,7 @@ A web-based application designed to automate bacterial colony analysis from uplo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sushantAtakare&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sushantAtakare&theme=discord&no-frame=true&no-bg=true&row=1" width="100%"/>
 
 </div>
 
