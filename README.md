@@ -8,27 +8,31 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=React+Native+Mobile+Engineer;Full-Stack+Software+Engineer;Node.js+%7C+Express.js+%7C+PostgreSQL;AI-Powered+Application+Builder;Performance+%26+System+Design+Enthusiast" />
-</a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/🎓_M.Sc._Computer_Science-9.88_CGPA-4f46e5?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/🏆_University-Gold_Medal-7c3aed?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/📍_Pune-India-312e81?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://github.com/sushantAtakare">
+<!-- GitHub badge - NOT CLICKABLE -->
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
+
+<!-- ONLY LINKEDIN IS CLICKABLE -->
+
+<a href="https://www.linkedin.com/in/sushant-atakare-80a92424b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sushantatakare9@gmail.com">
+
+<!-- Email badge - NOT CLICKABLE -->
+
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -71,6 +75,8 @@ I enjoy working across the complete product lifecycle — from designing mobile 
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,cpp" />
 </p>
+
+**TypeScript • JavaScript • C++**
 
 ## Mobile & Frontend
 
@@ -290,11 +296,13 @@ A web-based application designed to automate bacterial colony analysis from uplo
 
 <div align="center">
 
-<a href="https://github.com/sushantAtakare">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- GitHub - NOT CLICKABLE -->
 
-<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- ONLY LINKEDIN - CLICKABLE -->
+
+<a href="https://www.linkedin.com/in/sushant-atakare-80a92424b/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -345,7 +353,6 @@ A web-based application designed to automate bacterial colony analysis from uplo
 <img src="https://raw.githubusercontent.com/sushantAtakare/sushantAtakare/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
 
 ---
 
