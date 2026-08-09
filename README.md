@@ -1,26 +1,378 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:7c3aed&height=220&section=header&text=Sushant%20Atakare&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=React%20Native%20Mobile%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=60&descSize=20" width="100%"/>
+
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=React+Native+Mobile+Engineer;Full-Stack+Software+Engineer;Node.js+%7C+Express.js+%7C+PostgreSQL;AI-Powered+Application+Builder;Performance+%26+System+Design+Enthusiast" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎓_M.Sc._Computer_Science-9.88_CGPA-4f46e5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏆_University-Gold_Medal-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Pune-India-312e81?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://github.com/sushantAtakare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sushantatakare9@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sushantAtakare&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS"/>
+
 </div>
-## 👋 About Me<br><br>I'm a **React Native Mobile Engineer** focused on building scalable, production-grade applications for **Android and iOS**. I work across the full development lifecycle—from designing responsive mobile experiences and optimizing performance to building secure backend APIs and deploying production systems.<br><br>* 📱 **Mobile:** React Native (CLI & Expo), TypeScript, Android, iOS, Native Modules, Turbo Modules, Fabric & Hermes<br>* ⚙️ **Backend:** Node.js, Express.js, REST APIs, JWT, OAuth, HTTP/2<br>* 🗄️ **Databases:** PostgreSQL, MongoDB, Redis, Firebase<br>* ☁️ **Cloud & DevOps:** Docker, Docker Compose, Nginx, AWS S3, CI/CD, production deployment<br>* 🚀 **Engineering:** Performance optimization, scalable architecture, offline-first systems, caching, pagination & rate limiting<br>* 🤖 **AI:** Building AI-powered applications and workflow orchestration with practical product-focused use cases<br><br>Currently, I'm working on **production-grade mobile and full-stack systems**, while exploring deeper areas of **system design, performance engineering, AI integration, cloud infrastructure, and scalable software architecture**.<br><br>I enjoy turning complex ideas into **clean, maintainable, and production-ready software**.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sushant-atakare-80a92424b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushantatakare9@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SushantAtakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SushantAtakare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SushantAtakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SushantAtakare&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SushantAtakare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+I'm a **React Native Mobile Engineer** with **9+ months of professional experience** building and scaling cross-platform applications for Android and iOS.
+
+My engineering focus spans **mobile development, backend engineering, API architecture, databases, cloud infrastructure, and AI-powered applications**.
+
+I enjoy working across the complete product lifecycle — from designing mobile interfaces and reusable components to building secure REST APIs, architecting databases, integrating cloud services, and optimizing production applications.
+
+### Engineering Focus
+
+- 📱 Cross-platform mobile engineering with **React Native CLI & Expo**
+- ⚙️ Backend engineering with **Node.js & Express.js**
+- 🗄️ Database architecture with **PostgreSQL, MongoDB & Redis**
+- 🔐 Secure authentication using **JWT & OAuth**
+- ☁️ Cloud and deployment technologies including **Docker, Nginx & AWS S3**
+- 🤖 AI-powered application development and workflow orchestration
+- 🚀 Mobile performance optimization and scalable architecture
+- 🌍 Multilingual and RTL-ready application architecture
+- 📊 Production monitoring with Firebase Analytics & crash reporting
+
+### Open To
+
+**React Native Engineer • Mobile Engineer • Full-Stack Engineer • Backend Engineer • Software Engineer**
+
+---
+
+# 🧰 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp" />
+</p>
+
+## Mobile & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css" />
+</p>
+
+**React Native CLI • Expo • Android • iOS • Native Modules • Turbo Modules • Fabric • Hermes • Redux Toolkit • Context API • Hooks • Responsive UI • Accessibility**
+
+## Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Node.js • Express.js • REST APIs • HTTP/2 • JWT • OAuth • Axios • API Communication • Caching • Pagination • Retry Logic • Rate Limiting**
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" />
+</p>
+
+**PostgreSQL • MongoDB • Redis • Firebase Firestore • Firebase Authentication • Firebase Analytics**
+
+## Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,github,androidstudio,vscode" />
+</p>
+
+**Docker • Docker Compose • Nginx • AWS S3 • AWS EC2 • CI/CD • Load Balancing • Horizontal Scaling • Auto Scaling • Production Deployment**
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Engineering Experience |
+|---|---|---|
+| AI Application Development | 🟣 Advanced | Building AI-powered applications and product workflows |
+| AI Workflow Orchestration | 🟣 Advanced | Designing modular AI workflows with Node.js |
+| AI-Powered Learning | 🟣 Advanced | Voice-based English learning and AI feedback |
+| AI-Assisted Image Processing | 🟣 Advanced | Colony counting and image analysis workflows |
+| AI Integration | 🟣 Advanced | Integrating AI capabilities into mobile and web applications |
+| Edge-Case Analysis | 🟣 Intermediate | AI-driven technical recommendations and scalability analysis |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🧠 Fluent AI — AI English Speaking Assistant</b></summary>
+
+<br/>
+
+An AI-powered cross-platform English speaking assistant designed to help users improve communication skills through voice interaction, AI conversations, pronunciation analysis, and grammar correction.
+
+| Category | Details |
+|---|---|
+| **Stack** | React Native • Node.js • Express.js • PostgreSQL • AI |
+| **Architecture** | Feature-based modular architecture |
+| **Authentication** | JWT |
+| **Storage** | AsyncStorage |
+| **AI** | AI conversation • Pronunciation analysis • Grammar correction |
+| **Performance** | Memoization • Optimized list rendering |
+| **Platform** | Android • iOS |
+
+### Engineering Highlights
+
+- Built a cross-platform AI-powered English speaking assistant.
+- Implemented voice recording and AI conversation workflows.
+- Integrated pronunciation analysis and grammar correction through REST APIs.
+- Designed modular feature-based architecture for maintainability.
+- Implemented secure JWT authentication.
+- Added offline progress persistence using AsyncStorage.
+- Optimized large conversation histories using memoization and optimized list rendering.
+
+</details>
+
+---
+
+<details>
+<summary><b>💡 Idea.exe — AI Product Engineering Assistant</b></summary>
+
+<br/>
+
+An AI-powered platform that transforms startup ideas into technical specifications including database schemas, API designs, development roadmaps, scalability recommendations, and edge-case identification.
+
+| Category | Details |
+|---|---|
+| **Stack** | React Native • Node.js • Express.js • PostgreSQL |
+| **Architecture** | Modular microservices |
+| **Authentication** | Role-Based Authentication |
+| **Backend** | Secure REST APIs |
+| **AI** | Workflow orchestration • Edge-case identification |
+| **Database** | PostgreSQL |
+| **Focus** | Product Engineering • Technical Planning |
+
+### Engineering Highlights
+
+- Built an AI-powered platform for transforming startup ideas into technical specifications.
+- Generated database schema recommendations and API designs.
+- Created development roadmaps for proposed products.
+- Designed role-based authentication and secure API endpoints.
+- Implemented modular microservices for complex AI workflows.
+- Built reusable and responsive UI components.
+- Added AI-driven edge-case and scalability recommendations.
+
+</details>
+
+---
+
+<details>
+<summary><b>🔬 Colony Counting AI — AI-Assisted Image Processing</b></summary>
+
+<br/>
+
+A web-based application designed to automate bacterial colony analysis from uploaded images using AI-assisted image processing and a sector-based counting algorithm.
+
+| Category | Details |
+|---|---|
+| **Stack** | Next.js • AI-Assisted Image Processing |
+| **Algorithm** | Sector-Based Counting Algorithm |
+| **Interface** | Responsive Dashboard |
+| **Processing** | Large Image Processing |
+| **Features** | Image Upload • Preview • Result Visualization |
+| **Application** | Bacterial Colony Analysis |
+
+### Engineering Highlights
+
+- Developed a web application for automated bacterial colony analysis.
+- Implemented a sector-based image counting algorithm.
+- Divided images into sections to improve counting accuracy and consistency.
+- Built a responsive dashboard for image upload and result visualization.
+- Integrated backend processing and AI inference.
+- Optimized large-image handling and processing pipelines.
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## React Native Mobile Engineer
+
+**eHealth Tech Systems — Pune, India**  
+`Jan 2026 – Present`
+
+- Engineered and maintained multiple production-grade React Native applications across healthcare and enterprise domains.
+- Owned features throughout the lifecycle from implementation to deployment and post-release support.
+- Architected scalable state management using Redux and Context API.
+- Implemented secure authentication and authorization using JWT and refresh tokens.
+- Integrated RESTful microservices into mobile applications.
+- Integrated camera, file upload, permissions, and push notification capabilities.
+- Improved performance using lazy loading, memoization, image caching, and FlatList virtualization.
+- Architected multilingual support with dynamic language switching and RTL readiness.
+- Integrated AWS S3 for secure media uploads and CDN delivery.
+- Integrated Firebase Analytics and crash reporting for production monitoring.
+- Built reusable UI components and responsive mobile-first layouts.
+- Collaborated with backend and QA teams on feature development, reviews, debugging, and releases.
+
+**Skills:**  
+`React Native` `Expo` `TypeScript` `Redux` `Context API` `Node.js` `Express.js` `JWT` `AWS S3` `Firebase` `PostgreSQL` `REST APIs`
+
+---
+
+## Trainee Software Engineer Intern
+
+**Rego Digital Solutions Pvt. Ltd. — Pune, India**  
+`Jul 2025 – Dec 2025`
+
+- Developed full-stack features focused on API integration and component reusability.
+- Built responsive UI components and maintained frontend-backend data flow.
+- Developed mobile-friendly web interfaces.
+- Implemented RESTful API endpoints.
+- Worked with authentication and session management.
+- Contributed to debugging, code reviews, and performance tuning.
+- Prepared scalable and maintainable code for production deployments.
+
+**Skills:**  
+`React.js` `Node.js` `Express.js` `REST APIs` `Authentication` `JavaScript` `Responsive UI`
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Recognition | 📌 Details |
+|---|---|
+| 🥇 University Gold Medal | Top 2 University Ranker — Master of Computer Science |
+| 🥇 University Gold Medal | Top 5 University Ranker — Bachelor of Computer Science |
+| 🎓 Master's Degree | M.Sc. Computer Science — CGPA 9.88 |
+| 🎓 Bachelor's Degree | B.Sc. Computer Science — CGPA 8.91 |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+### Tata Forge
+
+`Data Visualization Internship Certification`
+
+### GeeksforGeeks
+
+`Technical Certification`
+
+### HP
+
+`AI Internship Certification`
+
+---
+
+# 💻 Coding & Developer Profiles
+
+<div align="center">
+
+<a href="https://github.com/sushantAtakare">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sushantAtakare&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantAtakare&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sushantAtakare&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sushantAtakare&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushantAtakare&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sushantAtakare/sushantAtakare/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+current_focus:
+  Learning:
+    - Advanced React Native Architecture
+    - Mobile Performance Engineering
+    - System Design
+    - Scalable Backend Architecture
+
+  Building:
+    - AI-powered applications
+    - Cross-platform mobile applications
+    - Production-grade REST APIs
+    - Scalable full-stack systems
+
+  Exploring:
+    - AI Application Engineering
+    - Cloud Infrastructure
+    - Distributed Systems
+    - Advanced Mobile Architecture
+
+  Open To:
+    - React Native Engineering
+    - Mobile Engineering
+    - Full-Stack Engineering
+    - Backend Engineering
+    - Software Engineering
