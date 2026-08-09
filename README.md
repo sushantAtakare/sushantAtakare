@@ -322,7 +322,7 @@ A web-based application designed to automate bacterial colony analysis from uplo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sushantAtakare&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sushantAtakare&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
@@ -345,6 +345,7 @@ A web-based application designed to automate bacterial colony analysis from uplo
 <img src="https://raw.githubusercontent.com/sushantAtakare/sushantAtakare/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
 
 ---
 
