@@ -322,7 +322,7 @@ A web-based application designed to automate bacterial colony analysis from uplo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sushantAtakare&theme=discord&no-frame=true&no-bg=true&row=1" width="100%"/>
+🏆 🥇 🥈 🥉 ⭐ 🚀 💻
 
 </div>
 
